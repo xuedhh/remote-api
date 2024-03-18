@@ -1,0 +1,11 @@
+
+dphp:S103W"KSplit this 124 characters long line (which is greater than 120 authorized).(»ŒÚËúÿÿÿÿ
+dphp:S103^"KSplit this 153 characters long line (which is greater than 120 authorized).(Öƒòşÿÿÿÿ
+vphp:S100"\Rename function "_transferErrorMessage" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(á¬‹Ğùÿÿÿÿ
+Z	php:S1784­"DExplicitly mention the visibility of this method "returnValidError".(©Ğ®¡
+b	php:S1301>"MReplace this "switch" statement with "if" statements to increase readability.(êÍêÿ
+vphp:S116!"bRename this field "$_RESPONSE_STATUS_SUCCESS" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‰ ¨½
+sphp:S116("_Rename this field "$_RESPONSE_STATUS_FAIL" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¶öÕ
+‚php:S116/"iRename this field "$_RESPONSE_ERROR_TYPE_VALIDATION" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÕËàËùÿÿÿÿ
+R	php:S1068!"=Remove this unused "$_RESPONSE_STATUS_SUCCESS" private field.(‰ ¨½
+Kphp:S131>"7Add a "case default" clause to this "switch" statement.(êÍêÿ
